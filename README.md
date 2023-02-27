@@ -10,8 +10,9 @@ Here are screenshots, showing the behavior of this app. Note that it isn't feasi
 
 Images below show: (on left) the app when launched; (on right) the app when you click on the "Add New Fav" button.
 
-![FavThings-launch.PNG](https://github.com/bell-kevin/favoriteThings/blob/main/readMePics/FavThings-launch.PNG)     
-![FavThings-inputScreen.PNG}(https://github.com/bell-kevin/favoriteThings/blob/main/readMePics/FavThings-inputScreen.PNG)
+![FavThings-launch.PNG](https://github.com/bell-kevin/favoriteThings/blob/main/readMePics/FavThings-launch.PNG)   
+
+![FavThings-inputScreen.PNG](https://github.com/bell-kevin/favoriteThings/blob/main/readMePics/FavThings-inputScreen.PNG)
 
 Images below show: (on left) the app when typing in the data for the new fav; (on right) the result after pressing Add.
 
