@@ -30,15 +30,15 @@ Submission: Zip together the root folder and the 5 screenshots, and submit the s
 
 https://reactnative.dev/docs/environment-setup
 
-![p]()
+![p](https://github.com/bell-kevin/favoriteThings/blob/main/screenshots/1.PNG)
 
-![p]()
+![p](https://github.com/bell-kevin/favoriteThings/blob/main/screenshots/2.PNG)
 
-![p]()
+![p](https://github.com/bell-kevin/favoriteThings/blob/main/screenshots/3.PNG)
 
-![p]()
+![p](https://github.com/bell-kevin/favoriteThings/blob/main/screenshots/4.PNG)
 
-![p]()
+![p](https://github.com/bell-kevin/favoriteThings/blob/main/screenshots/5.PNG)
 
 ## Storing Projects 
 
