@@ -10,15 +10,18 @@ Here are screenshots, showing the behavior of this app. Note that it isn't feasi
 
 Images below show: (on left) the app when launched; (on right) the app when you click on the "Add New Fav" button.
 
-FavThings-launch.PNG     FavThings-inputScreen.PNG
+![FavThings-launch.PNG](https://github.com/bell-kevin/favoriteThings/blob/main/readMePics/FavThings-launch.PNG)     
+![FavThings-inputScreen.PNG}(https://github.com/bell-kevin/favoriteThings/blob/main/readMePics/FavThings-inputScreen.PNG)
 
 Images below show: (on left) the app when typing in the data for the new fav; (on right) the result after pressing Add.
 
-FavThings-input.PNG     FavThings-inputResult.PNG
+![FavThings-input.PNG]( https://github.com/bell-kevin/favoriteThings/blob/main/readMePics/FavThings-input.PNG)   
+
+![FavThings-inputResult.PNG](https://github.com/bell-kevin/favoriteThings/blob/main/readMePics/FavThings-inputResult.PNG)
 
 Image below shows: the app after entering multiple favorites.
 
-FavThings-Done.PNG
+![FavThings-Done.PNG](https://github.com/bell-kevin/favoriteThings/blob/main/readMePics/FavThings-Done.PNG)
 
 Notice the style. The button on the main screen must be some other color than the default blue, and the  Add button on the input screen must match it. On the input screen, the placeholder text must explain what the user needs to enter, so match the screenshot. The list items must contain both the "thing" and the "item", and the code needs to add the word "Favorite" before the "thing". For example, if the user entered "Color" as the favorite thing, and "Red" as the item for that favorite, the code of the app needs to display "Favorite Color" by adding "Favorite" to the "thing", and the item "Red" must appear in the same block in the list. There must be a background color in the list items that is different from the one in the video. You may select whatever colors you wish.
 
