@@ -59,7 +59,7 @@ export default function App() {
           <TouchableOpacity onPress={() => deleteFavThing(item.id)}>
             <View style={styles.listItem}>
               <Text style={styles.listItemText}>
-                Favorite {item.thing} <Text style={{ fontWeight: 'normal' }}>{item.item}</Text>
+                Favorite {item.thing}: <Text style={{ fontWeight: 'normal' }}>{item.item}</Text>
               </Text>
             </View>
           </TouchableOpacity>
@@ -67,7 +67,11 @@ export default function App() {
       />
       <TouchableOpacity
         style={styles.addButton}
-        onPress={() => setModalOpen(true)}
+        onPress={() => {
+          setModalOpen(true);
+          setItem('');
+          setThing('');
+        }}
       >
         <Text style={styles.addButtonText}>Add New Fav</Text>
       </TouchableOpacity>
@@ -104,7 +108,7 @@ const styles = StyleSheet.create({
     textAlign: 'center',
   },
   listItem: {
-    backgroundColor: '#f2f2f2',
+    backgroundColor: 'lightyellow',
     padding: 5,
     borderRadius: 10,
     marginBottom: 1,
